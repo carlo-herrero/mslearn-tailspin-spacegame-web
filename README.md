@@ -1,3 +1,4 @@
+[![Build Status](https://cdherrero-work.visualstudio.com/Space%20Game%20Web%20Pipeline/_apis/build/status/carlo-herrero.mslearn-tailspin-spacegame-web?branchName=master)](https://cdherrero-work.visualstudio.com/Space%20Game%20Web%20Pipeline/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
